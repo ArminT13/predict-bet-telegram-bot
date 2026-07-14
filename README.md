@@ -37,8 +37,8 @@ Make sure you have Python 3.8+ installed on your system.
 
 1. Clone the Repository | دانلود پروژه
 Bash
-git clone [https://github.com/ArminT13/predict-bet-telegram-bot.git](https://github.com/ArminT13/predict-bet-telegram-bot.git)
-cd your-repo-name
+git clone https://github.com/ArminT13/predict-bet-telegram-bot.git
+cd predict-bet-telegram-bot
 2. Install Dependencies | نصب کتابخانه‌ها
 Install the required libraries using pip:
 کتابخانه‌های مورد نیاز را با دستور زیر نصب کنید:
