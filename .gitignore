@@ -1,0 +1,9 @@
+# Database
+game_bet.db
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Environment variables
+.env
